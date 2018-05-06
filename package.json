@@ -1,0 +1,25 @@
+{
+  "name": "ionic-android-logs",
+  "version": "0.0.4",
+  "description": "A package that create logs for android in ionic v3.",
+  "cordova": {
+    "id": "ionic-android-logs",
+    "platforms": [
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shhdharmen/ionic-android-logs.git"
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "author": "Dharmen Shah",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shhdharmen/ionic-android-logs/issues"
+  },
+  "homepage": "https://github.com/shhdharmen/ionic-android-logs#readme"
+}
