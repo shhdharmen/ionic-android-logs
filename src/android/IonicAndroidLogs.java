@@ -1,4 +1,4 @@
-package ionic-android-logs;
+package com.dharmenshah.cordova.plugin;
 
 import org.apache.cordova.CordovaPlugin;
 import org.apache.cordova.CallbackContext;

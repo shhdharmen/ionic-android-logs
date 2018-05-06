@@ -14,7 +14,9 @@
   },
   "keywords": [
     "ecosystem:cordova",
-    "cordova-android"
+    "cordova-android",
+    "android-logs",
+    "logs"
   ],
   "author": "Dharmen Shah",
   "license": "MIT",
